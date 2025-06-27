@@ -15,7 +15,7 @@ Git & GitHub
 
 ## DATA INITIAL_EXPLORATION : column, rows, first few rows, data types, basic stats. 
 ## DATA CLEANING : found missing(null)values , filled neecssary and dropped the unnecessary rows, conversion into datetime .
-## EDA - Bar plots for Netflix content types, genre frequency , top 10 countries with titles , top 10 genres , top 5 genres based on content type , monthly additions count. Line plot for yearly release trend .
+## EDA - Bar plots for Netflix content types, genre frequency , top 10 countries with titles , top 10 genres , top 5 genres based on content type(movie, tv show), monthly additions count. Line plot for yearly release trend .
 
 ## Insight findings
 - Most content on Netflix is Movies
@@ -23,6 +23,10 @@ Git & GitHub
 - Content release peaked between 2017-2020
 - Netflix adds the most titles in July and October
 - USA has the highest number of Netflix titles
+- Popular TV Show genres: International TV, crime, kids shows
+- Popular Movie genres: Dramas, comedies, documentaries
+
+
 
 
 
