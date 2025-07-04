@@ -6,7 +6,7 @@ Clean and preprocess real-world Netflix dataset
 Analyze trends in content types, release years, genres, and countries
 Visualize insights using Seaborn, Matplotlib, and Plotly
 
-## Tools & Technologies:
+## Tools & Technologies
 Python
 Pandas
 Matplotlib/Seaborn Plotly
