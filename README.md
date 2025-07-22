@@ -11,7 +11,7 @@ Python
 Pandas
 Matplotlib/Seaborn Plotly
 Jupyter Notebook
-Git & GitHub
+Git,GitHub
 
 ## DATA INITIAL_EXPLORATION : column, rows, first few rows, data types, basic stats.
 ## DATA CLEANING : found missing(null)values , filled neecssary and dropped the unnecessary rows, conversion into datetime.
